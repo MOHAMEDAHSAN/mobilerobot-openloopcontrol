@@ -92,7 +92,7 @@ if _name=='__main_':
 ~~~
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![robo](robomaster.png)
 
 ## MobileRobot Movement Video:
 
